@@ -17,8 +17,8 @@
 
 - **[REMCOD](https://remcod.ru)** — дизайн и ремонт под ключ с прозрачной сметой,
   контролем сроков и цифровым кабинетом.
-- **[ERP-система REMCOD](https://app.remcod.ru)** — единая рабочая среда для
-  проектов, смет, финансов, задач, документов, коммуникаций и контроля
+- **[ERP-система REMCOD](https://app.remcod.ru)** — единое рабочее пространство
+  для проектов, смет, финансов, задач, документов, коммуникаций и контроля
   исполнения.
 - **[REMCOD Agent Runtime](https://github.com/remcod-ru/remcod-agent-runtime)** —
   provider-neutral runtime и test harness для надёжных AI-агентов.
