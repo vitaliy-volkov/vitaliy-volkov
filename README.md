@@ -17,9 +17,9 @@
 
 - **[REMCOD](https://remcod.ru)** — дизайн и ремонт под ключ с прозрачной сметой,
   контролем сроков и цифровым кабинетом.
-- **[REMCOD Project](https://remcod.ru/konstruktor-dizayn-proekta)** — рабочая
-  среда для обмера, планировок, инженерных листов, ведомостей и передачи проекта
-  в реализацию.
+- **[ERP-система REMCOD](https://app.remcod.ru)** — единая рабочая среда для
+  проектов, смет, финансов, задач, документов, коммуникаций и контроля
+  исполнения.
 - **[REMCOD Agent Runtime](https://github.com/remcod-ru/remcod-agent-runtime)** —
   provider-neutral runtime и test harness для надёжных AI-агентов.
 - **[Flightdeck](https://github.com/vitaliy-volkov/Flightdeck)** — открытый
